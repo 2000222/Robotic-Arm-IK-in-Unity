@@ -9,5 +9,6 @@ This is the basic setting for the research project "A New Mixed-Reality-Based Ro
 
 Additionally, we are trying to use MLagents(https://github.com/Unity-Technologies/ml-agents) to train our robot and build an advanced scene like the "Reacher" one in Unity ML-agents.
 
-I have built the robotic arm and make it to reach the goal like the following:
-![avatar]（）
+I have built the robotic arm and made it to reach the goal after playing the scene in Unity3D as the following:
+
+![avatar](https://github.com/2000222/Robotic-Arm-IK-in-Unity/blob/master/Robotic%20Arm.png)
